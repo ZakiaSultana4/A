@@ -1,6 +1,6 @@
 # live Link : https://techbrand-204fb.web.app/
 
-**Technologies :** React js, Tailwind css, Daisy UI, Firebase, JWT, Node js, Express js, and Mongodb.
+**Technologies :** React js, Tailwind css, Daisy UI, Firebase, Node js, Express js, and Mongodb.
 
 **VITE_apiKey=replace_your_data* 
 
