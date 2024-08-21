@@ -106,7 +106,7 @@ const SignUp= () => {
             <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl glass">
             <Link to="/" className="px-3 py-1 text-red-500 font-semibold hover:underline">Go To Home</Link>
                 <form onSubmit={handleRegister} className="card-body mb-0 pb-0">
-                    <h1 className="text-center md:text-4xl font-bold text-2xl">Register</h1>
+                    <h1 className="text-center md:text-3xl font-bold text-2xl">Register</h1>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Name</span>
