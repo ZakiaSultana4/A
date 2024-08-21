@@ -5,7 +5,7 @@ import Products from "./Products/Products";
 const Home = () => {
 
     return (
-        <div className="bg-[#fafafa]">
+        <div >
 <Products/>
         </div>
     );
