@@ -83,7 +83,7 @@ const Products = () => {
                             <p className="mb-2">Category: {product.category}</p>
                             <p className="mb-2">Brand: {product.brand}</p>
                             <p className="mb-2">
-                              <p className="mb-2">Published: {(product.date).toLocaleString()}</p>
+                              <p className="mb-2">Published at: {(product.date).toLocaleString()}</p>
                             </p>
                             <p className="text-xl font-semibold text-primary">
                               ${product.price}
