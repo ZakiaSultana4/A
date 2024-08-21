@@ -2,17 +2,17 @@
 
 **Technologies :** React js, Tailwind css, Daisy UI, Firebase, Node js, Express js, and Mongodb.
 
-**VITE_apiKey=replace_your_data* 
+*VITE_apiKey=replace_your_data* 
 
-**VITE_authDomain=replace_your_data*
+*VITE_authDomain=replace_your_data*
 
-**VITE_projectId=replace_your_data*.
+*VITE_projectId=replace_your_data*.
 
-**VITE_storageBucket=replace_your_data*
+*VITE_storageBucket=replace_your_data*
 
-**VITE_messagingSenderId=replace_your_data*
+*VITE_messagingSenderId=replace_your_data*
 
-**VITE_appId=replace_your_data*
+*VITE_appId=replace_your_data*
 
 
  ** A fullstack mern application. Only login system and products page created. We can search, filter, sort products efficiently.
