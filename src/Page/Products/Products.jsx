@@ -38,13 +38,7 @@ const Products = () => {
   }, [allQuery,currentPage]);
   return (
     <div>
-      {/* <div className="max-w-lg mx-auto mt-8 text-center">
-        <h2 className="text-3xl md:text-6xl">
-          <span className="inline-block border-b-4 border-primary">
-            All Products
-          </span>
-        </h2>
-      </div> */}
+
 
       <section className="px-4 py-8">
         <div className="max-w-screen-xl mx-auto grid lg:grid-cols-[300px_1fr] gap-6">
